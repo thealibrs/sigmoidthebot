@@ -1,5 +1,7 @@
 # **Sigmoid The Telegram Bot**
 
+You can try the bot here, <a href = "t.me/sigmoidthebot"><b>Sigmoid The Bot</b></a>
+
 
 
 ![banner](https://i.hizliresim.com/VFDtvv.png) 
