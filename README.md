@@ -26,4 +26,9 @@ beautifulsoup4 == 4.8.2
 requests == 2.22.0
 python-telegram-bot = =13.3
 ```
+### **To-do**
+
+- [] Find proper news resource
+- [] Categorized news
+- [] Covid datas
 
