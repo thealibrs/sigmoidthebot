@@ -28,7 +28,7 @@ python-telegram-bot = =13.3
 ```
 ### **To-do**
 
-- [] Find proper news resource
-- [] Categorized news
-- [] Covid datas
+- [ ] Find proper news resource
+- [ ] Categorized news
+- [ ] Covid datas
 
