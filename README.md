@@ -24,7 +24,7 @@ A telegram bot I developed to learn **Web-Scraping** with **Python**. The librar
 python == 3.8
 beautifulsoup4 == 4.8.2
 requests == 2.22.0
-python-telegram-bot = =13.3
+python-telegram-bot == 13.3
 ```
 ### **To-do**
 
