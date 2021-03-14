@@ -31,6 +31,6 @@ python-telegram-bot == 13.3
 - [ ] Find proper news resource
 - [ ] Categorized news
 - [ ] Covid datas
-- [ ] 
+
 
 
